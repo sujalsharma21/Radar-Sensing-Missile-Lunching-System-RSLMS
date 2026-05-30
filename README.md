@@ -322,7 +322,7 @@ RESULTS/
 
 # 👩‍💻 Author
 
-### Anjali Sharma
+### Sujal Sharma
 
 IoT Developer • Embedded Systems Enthusiast • ESP32 Projects
 
